@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Home"
+    url: https://daun3046.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/DAUN3046
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "Sapjil"
+    url: /categories/sapjil/
+  - title: "FE"
+    url: /categories/fe/
+  - title: "Git"
+    url: /categories/git/
+  - title: "GitHub Blog"
+    url: /categories/github-blog/
+  - title: "Algorithm"
+    url: /categories/algorithm/
+  - title: "Prize"
+    url: /categories/prize/
+  - title: "Activity"
+    url: /categories/activity/
+#   - title: "Practice"
+#     - title: "content 1"
+#       url: /categories/practice/content1/
+#     - title: "content 2"
+#       url: /categories/practice/content2/
+#   - title: "Machine Learning"
+#     url: /categories/machine-learning/
