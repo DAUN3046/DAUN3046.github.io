@@ -6,7 +6,7 @@ categories:
 tags:
   - [FE, Project]
 
-permalink: /FE/shoppingmall/
+permalink: /FE/shoppingmall3/
 
 toc: true
 toc_sticky: true
