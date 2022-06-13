@@ -19,7 +19,7 @@ date: 2022-05-30
 # 오피스아워 배운점 정리
 ## 무한스크롤
 `IntersectionObserver` 특징
-- `request Idle(아무것도 하지 않는 공백의 시간)에 작업하기 때문에 성능이 우수하다.
+- request Idle(아무것도 하지 않는 공백의 시간)에 작업하기 때문에 성능이 우수하다.
 
 ## 브라우저 렌더링에서 `display`와 `visibility`의 차이
 - `display`: `none`은 render tree에서 아예 빠진다. 그래서 element가 공간을 차지하지 않는다.
