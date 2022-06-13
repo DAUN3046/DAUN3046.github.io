@@ -31,6 +31,7 @@ date: 2022-05-30
 
 ## 리스트 구현
 - 요즘 트렌드인 리액트스러운 방식 
+
 ```js
 // 코치님께서 추천해주신 연습 방법
 const clothes = await Order.getMyOrders();
@@ -40,10 +41,10 @@ const order = `
     {clothes.map(...).reduce(...)}
   </ul>
 `;
-
 ```
 
 - 평범한 코드
+
 ```js
 const clothes = await Order.getMyOrders();
 
@@ -57,9 +58,10 @@ const order = `
     {li}
   </ul>
 `;
-
 ```
+
 - 이렇게 하지 마라...
+
 ```js
 const clothes = await Order.getMyOrders(); // 주문 정보
 
