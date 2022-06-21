@@ -4,7 +4,7 @@ title: "[쇼핑몰 프로젝트 1일차] 회원정보수정 페이지 구현과 
 categories:
   - FE
 tags:
-  - [FE, Project]
+  - [FE, Project, JavaScript, Node.js]
 
 permalink: /FE/shoppingmall1/
 
