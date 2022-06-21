@@ -4,7 +4,7 @@ title: "[쇼핑몰 프로젝트 3일차] 채찍(삽질)7:당근(성취감)3 "
 categories:
   - FE
 tags:
-  - [FE, Project]
+  - [FE, Project, JavaScript, Node.js]
 
 permalink: /FE/shoppingmall3/
 
