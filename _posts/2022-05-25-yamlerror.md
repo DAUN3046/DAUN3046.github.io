@@ -6,12 +6,12 @@ categories:
 tags:
   - [Sapjil, GitBlog]
 
-permalink: /GitBlog/220515error/
+permalink: /GitBlog/220525yamlerror/
 
 toc: true
 toc_sticky: true
  
-date: 2022-05-15
+date: 2022-05-25
 ---
 
 # 문제발생
