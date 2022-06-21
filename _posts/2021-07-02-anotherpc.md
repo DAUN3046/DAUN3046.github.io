@@ -6,12 +6,12 @@ categories:
 tags:
   - [Sapjil, Git]
 
-permalink: /sapjil/220102anotherpc/
+permalink: /sapjil/210702anotherpc/
 
 toc: true
 toc_sticky: true
  
-date: 2022-01-02
+date: 2021-07-02
 ---
 
 # 다른 컴퓨터에서 깃허브로 작업하기
