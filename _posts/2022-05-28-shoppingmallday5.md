@@ -4,7 +4,7 @@ title: "[쇼핑몰 프로젝트 5일차] 1차 회고 + 내가 새벽에 소리 �
 categories:
   - FE
 tags:
-  - [FE, Project]
+  - [FE, Project, JavaScript, Node.js]
 
 permalink: /FE/shoppingmall5/
 
