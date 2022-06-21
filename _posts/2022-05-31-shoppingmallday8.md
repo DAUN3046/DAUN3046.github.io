@@ -5,7 +5,7 @@ excerpt: "뇌가 말랑말랑해지는 기분이다."
 categories:
   - FE
 tags:
-  - [FE, Project]
+  - [FE, Project, JavaScript, Node.js]
 
 permalink: /FE/shoppingmall8/
 
