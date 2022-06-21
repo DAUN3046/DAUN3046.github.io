@@ -1,12 +1,12 @@
 ---
-title: "[Node.js] Error: YAML Exception reading"
+title: "[GitBlog] Error: YAML Exception reading"
 
 categories:
-  - Sapjil
+  - GitBlog
 tags:
-  - [Sapjil, Node.js]
+  - [Sapjil, GitBlog]
 
-permalink: /sapjil/220515error/
+permalink: /GitBlog/220515error/
 
 toc: true
 toc_sticky: true
@@ -20,7 +20,7 @@ date: 2022-05-15
 ![](https://velog.velcdn.com/images/daun3046/post/365c4752-1fb6-453e-bba1-eb1b6add543d/image.png)
 
 ```error
-[GitBlog] Error: YAML Exception reading /github/workspace/_posts/~~(<unknown>): could not find expected ':' while scanning a simple key at line ~~
+Error: YAML Exception reading /github/workspace/_posts/~~(<unknown>): could not find expected ':' while scanning a simple key at line ~~
 ```
 
 # 문제원인
