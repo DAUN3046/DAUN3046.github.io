@@ -4,7 +4,7 @@ title: "[쇼핑몰 프로젝트 6일차] 돈받고 이렇게 짜면 큰일나겠
 categories:
   - FE
 tags:
-  - [FE, Project]
+  - [FE, Project, JavaScript, Node.js]
 
 permalink: /FE/shoppingmall6/
 
