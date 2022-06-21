@@ -2,7 +2,7 @@
 title: "[GitBlog] Error: YAML Exception reading"
 
 categories:
-  - GitBlog
+  - Github Blog
 tags:
   - [Sapjil, GitBlog]
 
