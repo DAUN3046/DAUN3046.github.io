@@ -5,7 +5,7 @@ excerpt: "오피스아워 배운 점들 간략하게 정리"
 categories:
   - FE
 tags:
-  - [FE, Project]
+  - [FE, Project, JavaScript, Node.js]
 
 permalink: /FE/shoppingmall7/
 
