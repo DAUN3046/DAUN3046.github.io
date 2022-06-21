@@ -4,7 +4,7 @@ title: "[쇼핑몰 프로젝트 4일차] FE-BE 협업에 대한 고민 2 - test 
 categories:
   - FE
 tags:
-  - [FE, Project]
+  - [FE, Project, JavaScript, Node.js]
 
 permalink: /FE/shoppingmall4/
 
