@@ -6,12 +6,12 @@ categories:
 tags:
   - [Sapjil, Node.js]
 
-permalink: /sapjil/220507error/
+permalink: /sapjil/220518starterror/
 
 toc: true
 toc_sticky: true
  
-date: 2022-05-07
+date: 2022-05-18
 ---
 
 # 문제
