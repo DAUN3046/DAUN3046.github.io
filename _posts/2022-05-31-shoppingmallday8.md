@@ -1,6 +1,6 @@
 ---
 title: "[쇼핑몰 프로젝트 8일차] 단 세 줄로 5시간 삽질하는 사람이 있다~!?"
-excerpt: "뇌가 말랑말랑해지는 기분이다."
+excerpt: "프로젝트에 집중하느라 TIL에 정리할 시간이 부족하다!"
 
 categories:
   - FE
@@ -14,7 +14,7 @@ toc_sticky: true
  
 date: 2022-05-31
 ---
-~~프로젝트에 집중하느라 TIL에 정리할 시간이 부족하다~~
+
 
 # Dynamic DOM에서 AddEventListener가 동작하지 않는 문제
 
