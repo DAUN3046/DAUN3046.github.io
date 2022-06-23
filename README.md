@@ -1,5 +1,5 @@
 # Github Blog
-본 블로그는 [`https://choiiis.github.io/`](https://choiiis.github.io/)님의 깃블로그를 fork하여 제작하였습니다.
+본 블로그는 [choiiis](https://github.com/choiiis)님의 깃블로그를 fork하여 제작하였습니다.
 
 ## To Do
 - Activity 추가 (소학회, AI, 알고리즘 스터디, 프로젝트 ...)
