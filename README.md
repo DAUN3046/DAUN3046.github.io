@@ -3,7 +3,7 @@
 
 ## To Do
 - Activity 추가 (소학회, AI, 알고리즘 스터디, 프로젝트 ...)
-- favicon 변경
+- favicon 수정
 - git-blog 게시글 추가 오류 => post의 md 파일엔 이상이 없으므로 categories 관련 링크 확인하기
 
 ## How to Write
