@@ -65,7 +65,7 @@ const order = `
 ```js
 const clothes = await Order.getMyOrders(); // 주문 정보
 
-document.querySelecotr('.ul').innerHtml += clothes;
+document.querySelecr('.ul').innerHtml += clothes;
 ```
 
 특히, `innerHTML`은 XSS 공격에 있어 보안에 취약하기 때문에 지양해야 된다.
