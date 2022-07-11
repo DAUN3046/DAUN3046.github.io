@@ -35,11 +35,9 @@ git rebase HEAD~1 -i
 
 ![image](https://user-images.githubusercontent.com/49031232/178292096-43619eff-d7ad-460f-a80d-5a939d083aef.png)
 
-![image](https://user-images.githubusercontent.com/49031232/178293192-599202b0-19da-4e88-a35e-1708aa6d42ff.png)
+![image](https://user-images.githubusercontent.com/49031232/178295555-2d437464-b1c6-4573-8459-71d6ffd96cbf.png)
 
-그럼 다음과 같이 커밋이 고쳐진다.
-
-![image](https://user-images.githubusercontent.com/49031232/178293865-4c1166a6-471e-4122-8f87-781db2c541a2.png)
+그럼 커밋이 고쳐진다.
 
 그리고 다음과 같이 반영해주면 완료!
 
@@ -47,7 +45,10 @@ git rebase HEAD~1 -i
 git push <브랜치 설정> --force
 ```
 
-![image](https://user-images.githubusercontent.com/49031232/178294260-9c85d5ab-ec0c-4357-8a50-30f927c7cf49.png)
+![image](https://user-images.githubusercontent.com/49031232/178296110-8ab3cabb-2907-4c24-aacb-f514a9c44f30.png)
 
+예쁘게 바뀐 모습을 확인할 수 있다.
+
+![image](https://user-images.githubusercontent.com/49031232/178296354-a39da546-4a97-4a77-be14-d71177b8fa37.png)
 
 
