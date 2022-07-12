@@ -1,10 +1,10 @@
 ---
-title: "[React] password 에러"
+title: "[React+TypeScript] password 에러"
 excerpt: 
 categories:
   - Sapjil
 tags:
-  - [Sapjil, React]
+  - [Sapjil, React, TypeScript]
 
 permalink: /sapjil/220712passworderror/
 
