@@ -1,10 +1,10 @@
 ---
-title: "[React] value 에러"
+title: "[React+TypeScript] value 에러"
 excerpt: 
 categories:
   - Sapjil
 tags:
-  - [Sapjil, React]
+  - [Sapjil, React, TypeScript]
 
 permalink: /sapjil/220712valueerror/
 
