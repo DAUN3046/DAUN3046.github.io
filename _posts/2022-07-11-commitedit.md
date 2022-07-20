@@ -31,7 +31,7 @@ git rebase HEAD~1 -i
 ```
 나는 바로 직전의 커밋을 고쳐야 돼서 `HEAD~1`이라 적었다.
 
-`pick`을 `reword`로 고쳐서 커밋명을 수정한 뒤 `esc` 버튼을 눌러 나오고 `:wq`를 쳐서 저장한다.
+`pick`을 `reword`로 고쳐서 커밋명을 수정한 뒤 `esc` 버튼을 눌러 나오고 `:wq!`를 쳐서 저장한다.
 
 ![image](https://user-images.githubusercontent.com/49031232/178292096-43619eff-d7ad-460f-a80d-5a939d083aef.png)
 
