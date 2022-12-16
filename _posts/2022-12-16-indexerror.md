@@ -1,5 +1,5 @@
 ---
-title: "[Python] KeyError: ~"
+title: "[Python] KeyError"
 
 categories:
   - Sapjil
